@@ -13,3 +13,6 @@ Di sini saya mendesain program dengan Kelas Klub yang mempunyai inner class Pema
 ### adapun atribut Pemain ialah :
 - nama pemain
 - posisi pemain dalam tim
+
+
+![output java](https://github.com/fialif/LATIHAN1DPBO2022/blob/main/Java/Latihan.png?raw=true)
